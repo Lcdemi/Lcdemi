@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey it's me, the Goat👋
 
 <!--
 **Lcdemi/Lcdemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
