@@ -1,5 +1,9 @@
-## Hey it's me, the Goat👋
+## Hey it's me, Luke Demi👋
 
+- 🔭 I’m currently working with the RIT CCDC Team for Incident Response and working on Red Team tools, including a C2, lockscreen backdoors, and more.
+- 📫 How to reach me: lcd4910@rit.edu
+
+## Here are some of my top coding languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcdemi&layout=compact)
 <!--
 **Lcdemi/Lcdemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
